@@ -4,8 +4,6 @@
 
 Este script de Python es una simulación conceptual de un sistema de monitoreo inteligente para pacientes en un entorno hospitalario. El programa demuestra, de manera simplificada, cómo diferentes componentes de Inteligencia Artificial (IA) podrían interactuar para analizar el estado de un paciente, detectar riesgos y generar recomendaciones para el personal médico en tiempo real.
 
-**Aviso:** Este código es una demostración con fines educativos y **no debe ser utilizado en un entorno clínico real**. Los modelos de IA son simulados con lógica simple.
-
 ## 2. Características Simuladas
 
 El sistema integra cuatro componentes principales de IA de forma simulada:
